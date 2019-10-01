@@ -1,0 +1,26 @@
+body{
+  background-color: #dbe2ef;
+}
+
+hr{
+
+  height: 0px;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1{
+  color: #40514e;
+}
+
+h2{
+  color: #40514e;
+}
+
+h3{
+  color: #40514e;
+}
+.wiki{
+  color: black;
+}
